@@ -1,0 +1,48 @@
+.fullpage {
+  height: max-content;
+  position: relative;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  background-color: #f7f7f7;
+}
+
+.sucmsg {
+  color: #388e3c;
+}
+
+.blue {
+  /* font-style: italic; */
+  color: rgb(122, 122, 122);
+}
+
+.sign {
+  padding: 10px 8px;
+  margin: 8px auto;
+  font-size: 18px;
+}
+.signer {
+  /* height: 800px; */
+  height: fit-content;
+  width: 500px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.pro-circle {
+  /* margin: 20px 60px; */
+  border-radius: 50%;
+  border: 3px solid darkgray;
+}
+
+@media (max-width: 600px) {
+  .sign {
+    padding: 5px;
+    margin: 2px;
+  }
+
+  .signer {
+    padding: 25px !important;
+    width: 90%;
+  }
+}
