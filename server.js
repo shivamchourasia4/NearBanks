@@ -1,5 +1,5 @@
 const express = require("express");
-// const dotenv = require("dotenv");
+const dotenv = require("dotenv");
 const connectDB = require("./config/db");
 const search = require("./routes/search");
 const reviews = require("./routes/reviews");
@@ -7,7 +7,7 @@ const banks = require("./routes/banks");
 const users = require("./routes/users");
 const auth = require("./routes/auth");
 const path = require("path");
-// dotenv.config({ path: "./config/config.env" });
+dotenv.config({ path: "./config/config.env" });
 connectDB();
 
 const app = express();
