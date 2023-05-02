@@ -32,10 +32,14 @@
   <img width="1495" alt="Screenshot 2023-02-19 at 4 24 21 PM" src="https://user-images.githubusercontent.com/73788982/219956246-f837d07e-9edb-45b9-9e11-6212e7b5a021.png">
   <hr/>
 <img width="1485" alt="Screenshot 2023-02-19 at 8 23 35 PM" src="https://user-images.githubusercontent.com/73788982/219956253-4aaba0ee-03b0-4f4a-ac25-8de0f35471bf.png">
-  <hr/>
+  <hr />
 <img width="1484" alt="Screenshot 2023-02-19 at 8 23 54 PM" src="https://user-images.githubusercontent.com/73788982/219956260-42fafe79-c8ed-4543-ba66-615b4ace4ae5.png">
   <hr/>
 <img width="1478" alt="Screenshot 2023-02-19 at 8 25 18 PM" src="https://user-images.githubusercontent.com/73788982/219956264-8cb97f44-4bf7-43ec-985c-be707005930a.png">
+  <hr />
+ <img width="1485" alt="Screenshot 2023-02-19 at 8 23 35 PM" src="https://user-images.githubusercontent.com/73788982/235622584-592b00be-75d2-48cc-9983-59f9e29c35c2.png">
+  <hr />
+  <img width="1485" alt="Screenshot 2023-02-19 at 8 23 35 PM" src="https://user-images.githubusercontent.com/73788982/235622697-06d8802b-b384-48d6-87b9-b56107b45c2b.png">
   <hr/>
 <img width="1475" alt="Screenshot 2023-02-19 at 8 25 37 PM" src="https://user-images.githubusercontent.com/73788982/219956268-9b4e1bcb-5b62-4846-9e31-84b94fd8ff80.png">
   <hr />
